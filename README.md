@@ -3,5 +3,5 @@ Trying simulation tools (Ultimate Bots Studio, Mujoco) to learn robot motion
 
 # Robotics Internship: Junior Task
 
-- [Part A: Human Motion to Robot](Task_A/README.md)
+- [Part A: Motion rendering by Ultimate Bots Studio](Task_A/README.md)
 - [Part B: Walking Policy](Task_B/NOTE.md)
